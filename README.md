@@ -11,4 +11,4 @@ All the steps are provided in notebook with clear and detailed explantion.
 
 User can edit and train model from scratch using his/her hyperparameters.
 
-**[Notebook file could not open in github editor. A separate markdown file is provided for online view]**
+**Notebook file could not open in github editor. A separate markdown file is provided for online view at [here](dlnd_face_generation.md)**
