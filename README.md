@@ -1,4 +1,4 @@
-# FaceGeneration_GAN
+# FaceGeneration_GAN PyTroch Implementation
 This is simple guide to generate Human faces using GANs.
 
 This project aims to provide a tour guide to make GAN elligible to generate human faces.
